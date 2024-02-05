@@ -10,7 +10,7 @@ I'm a MSc Computer Engineering student at the University of Padua, Italy, with a
 - 🏇 Spending my free time doing competitive programming on LeetCode  
   
 
-- 🏙️ Curious about urbanistics and can the field benefit from technology
+- 🏙️ Curious about urbanistics and how the field can benefit from technology
 
 <br/>
    
