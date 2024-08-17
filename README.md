@@ -10,8 +10,6 @@ I'm a MSc Computer Engineering student at the University of Padua, Italy, with a
 - 🏇 Spending my free time doing competitive programming on LeetCode  
   
 
-- 🏙️ Curious about urbanistics and how the field can benefit from technology
-
 <br/>
    
 <div align="center">
@@ -28,7 +26,12 @@ I'm a MSc Computer Engineering student at the University of Padua, Italy, with a
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=enricobolzonello&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=enricobolzonello" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enricobolzonello&layout=compact&langs_count=8&card_width=320&exclude_repo=LongEvalRetrieval-faderic,ml_homeworks,ids_homeworks" />
+</div> 
 
 <br/>  
 
@@ -46,7 +49,7 @@ I'm a MSc Computer Engineering student at the University of Padua, Italy, with a
 **Recently played song:**  
   
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=enricobolzonello&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true)
+![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=enricobolzonello&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true)
 
 </td></tr></table>  
 </div>
