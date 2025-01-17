@@ -27,7 +27,7 @@ I'm a MSc Computer Engineering student at the University of Padua, Italy, with a
 ## Github Stats  
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=enricobolzonello" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enricobolzonello&layout=compact&langs_count=8&card_width=320&exclude_repo=LongEvalRetrieval-faderic,ml_homeworks,ids_homeworks" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enricobolzonello&layout=compact&langs_count=8&card_width=320&exclude_repo=ml_homeworks,ids_homeworks" />
 </div> 
 
 <br/>  
