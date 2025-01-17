@@ -3,12 +3,11 @@
 
 I'm a MSc Computer Engineering student at the University of Padua, Italy, with a focus on High Performance and Big Data computing.  
   
+- 👨‍💻 Working on [CLANN](https://github.com/enricobolzonello/clann)
 
 - 📘 Currently learning about Deep Learning and Software Architecture  
-  
 
 - 🏇 Spending my free time doing competitive programming on LeetCode  
-  
 
 <br/>
    
@@ -28,8 +27,6 @@ I'm a MSc Computer Engineering student at the University of Padua, Italy, with a
 ## Github Stats  
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=enricobolzonello" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enricobolzonello&layout=compact&langs_count=8&card_width=320&exclude_repo=LongEvalRetrieval-faderic,ml_homeworks,ids_homeworks" />
 </div> 
 
